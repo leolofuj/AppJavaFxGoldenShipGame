@@ -21,6 +21,9 @@ navio ouro: +18 pontos
 Este trabalho foi desenvolvido como base para projetos posteriores, nos moldes da aplicação apresentada, permitindo a reutilização de seus recursos e aproveitamento do código-fonte, caso haja compatibilidade no desenvolvimento de um projeto semelhante.
 
 
+
+
+
 Project fully conceived and carried out by me, after the end of the Java 2022 COMPLETE course: From Zero to Professional + Projects!, from the udemy.com website, seeking to apply the knowledge acquired in the development of a practical application using JavaFx resources, FXML files, Scene Builder, within the Netbeans IDE.
 
 The developed game consists of accumulating points by clicking on the corresponding buttons, containing images of colored ships, created on stage randomly through the TimerTask class within the FXML file's controller class.
