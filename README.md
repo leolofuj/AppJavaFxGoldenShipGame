@@ -41,4 +41,15 @@ crimson ship (dark red): -7 points
 gold ship: +18 points
 
 
+
+
 This work was developed as a basis for later projects, along the lines of the application presented, allowing the reuse of its resources and use of the source code, in case there is compatibility in the development of a similar project.
+
+img 1
+
+![Capturar GoldenShipApJPG](https://user-images.githubusercontent.com/75798052/198898862-5b79dbe3-d13c-46e1-9be1-a5ac9f17aeaa.JPG)
+
+img 2
+
+
+![Capturar GoldenShipGamJPG](https://user-images.githubusercontent.com/75798052/198898879-c2b7c13f-aebd-4608-890b-a192a1ce9170.JPG)
